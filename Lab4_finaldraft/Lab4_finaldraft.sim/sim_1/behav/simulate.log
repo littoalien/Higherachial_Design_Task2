@@ -1,0 +1,3078 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+Inputs - a: 0000(          0), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00000( 0), result: 00000( 0)
+PASSED
+	CLA_4bit - expected: 00000( 0), result: 00000( 0)
+PASSED
+
+Inputs - a: 0000(          0), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00001( 1), result: 00001( 1)
+PASSED
+	CLA_4bit - expected: 00001( 1), result: 00001( 1)
+PASSED
+
+Inputs - a: 0000(          0), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00001( 1), result: 00001( 1)
+PASSED
+	CLA_4bit - expected: 00001( 1), result: 00001( 1)
+PASSED
+
+Inputs - a: 0000(          0), b: 0001(          1), cin:           1
+	inferred_adder - expected: 00010( 2), result: 00010( 2)
+PASSED
+	CLA_4bit - expected: 00010( 2), result: 00010( 2)
+PASSED
+
+Inputs - a: 0000(          0), b: 0010(          2), cin:           0
+	inferred_adder - expected: 00010( 2), result: 00010( 2)
+PASSED
+	CLA_4bit - expected: 00010( 2), result: 00010( 2)
+PASSED
+
+Inputs - a: 0000(          0), b: 0010(          2), cin:           1
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0000(          0), b: 0011(          3), cin:           0
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0000(          0), b: 0011(          3), cin:           1
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0000(          0), b: 0100(          4), cin:           0
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0000(          0), b: 0100(          4), cin:           1
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0000(          0), b: 0101(          5), cin:           0
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0000(          0), b: 0101(          5), cin:           1
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0000(          0), b: 0110(          6), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0000(          0), b: 0110(          6), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0000(          0), b: 0111(          7), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0000(          0), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0000(          0), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0000(          0), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0000(          0), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0000(          0), b: 1001(          9), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0000(          0), b: 1010(         10), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0000(          0), b: 1010(         10), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0000(          0), b: 1011(         11), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0000(          0), b: 1011(         11), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0000(          0), b: 1100(         12), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0000(          0), b: 1100(         12), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0000(          0), b: 1101(         13), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0000(          0), b: 1101(         13), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0000(          0), b: 1110(         14), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0000(          0), b: 1110(         14), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0000(          0), b: 1111(         15), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0000(          0), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0001(          1), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00001( 1), result: 00001( 1)
+PASSED
+	CLA_4bit - expected: 00001( 1), result: 00001( 1)
+PASSED
+
+Inputs - a: 0001(          1), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00010( 2), result: 00010( 2)
+PASSED
+	CLA_4bit - expected: 00010( 2), result: 00010( 2)
+PASSED
+
+Inputs - a: 0001(          1), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00010( 2), result: 00010( 2)
+PASSED
+	CLA_4bit - expected: 00010( 2), result: 00010( 2)
+PASSED
+
+Inputs - a: 0001(          1), b: 0001(          1), cin:           1
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0001(          1), b: 0010(          2), cin:           0
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0001(          1), b: 0010(          2), cin:           1
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0001(          1), b: 0011(          3), cin:           0
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0001(          1), b: 0011(          3), cin:           1
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0001(          1), b: 0100(          4), cin:           0
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0001(          1), b: 0100(          4), cin:           1
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0001(          1), b: 0101(          5), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0001(          1), b: 0101(          5), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0001(          1), b: 0110(          6), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0001(          1), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0001(          1), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0001(          1), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0001(          1), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0001(          1), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0001(          1), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0001(          1), b: 1001(          9), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0001(          1), b: 1010(         10), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0001(          1), b: 1010(         10), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0001(          1), b: 1011(         11), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0001(          1), b: 1011(         11), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0001(          1), b: 1100(         12), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0001(          1), b: 1100(         12), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0001(          1), b: 1101(         13), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0001(          1), b: 1101(         13), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0001(          1), b: 1110(         14), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0001(          1), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0001(          1), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0001(          1), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0010(          2), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00010( 2), result: 00010( 2)
+PASSED
+	CLA_4bit - expected: 00010( 2), result: 00010( 2)
+PASSED
+
+Inputs - a: 0010(          2), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0010(          2), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0010(          2), b: 0001(          1), cin:           1
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0010(          2), b: 0010(          2), cin:           0
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0010(          2), b: 0010(          2), cin:           1
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0010(          2), b: 0011(          3), cin:           0
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0010(          2), b: 0011(          3), cin:           1
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0010(          2), b: 0100(          4), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0010(          2), b: 0100(          4), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0010(          2), b: 0101(          5), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0010(          2), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0010(          2), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0010(          2), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0010(          2), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0010(          2), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0010(          2), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0010(          2), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0010(          2), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0010(          2), b: 1001(          9), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0010(          2), b: 1010(         10), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0010(          2), b: 1010(         10), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0010(          2), b: 1011(         11), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0010(          2), b: 1011(         11), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0010(          2), b: 1100(         12), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0010(          2), b: 1100(         12), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0010(          2), b: 1101(         13), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0010(          2), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0010(          2), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0010(          2), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0010(          2), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0010(          2), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0011(          3), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00011( 3), result: 00011( 3)
+PASSED
+	CLA_4bit - expected: 00011( 3), result: 00011( 3)
+PASSED
+
+Inputs - a: 0011(          3), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0011(          3), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0011(          3), b: 0001(          1), cin:           1
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0011(          3), b: 0010(          2), cin:           0
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0011(          3), b: 0010(          2), cin:           1
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0011(          3), b: 0011(          3), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0011(          3), b: 0011(          3), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0011(          3), b: 0100(          4), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0011(          3), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0011(          3), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0011(          3), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0011(          3), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0011(          3), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0011(          3), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0011(          3), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0011(          3), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0011(          3), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0011(          3), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0011(          3), b: 1001(          9), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0011(          3), b: 1010(         10), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0011(          3), b: 1010(         10), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0011(          3), b: 1011(         11), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0011(          3), b: 1011(         11), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0011(          3), b: 1100(         12), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0011(          3), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0011(          3), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0011(          3), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0011(          3), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0011(          3), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0011(          3), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0011(          3), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0100(          4), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00100( 4), result: 00100( 4)
+PASSED
+	CLA_4bit - expected: 00100( 4), result: 00100( 4)
+PASSED
+
+Inputs - a: 0100(          4), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0100(          4), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0100(          4), b: 0001(          1), cin:           1
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0100(          4), b: 0010(          2), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0100(          4), b: 0010(          2), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0100(          4), b: 0011(          3), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0100(          4), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0100(          4), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0100(          4), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0100(          4), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0100(          4), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0100(          4), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0100(          4), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0100(          4), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0100(          4), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0100(          4), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0100(          4), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0100(          4), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0100(          4), b: 1001(          9), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0100(          4), b: 1010(         10), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0100(          4), b: 1010(         10), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0100(          4), b: 1011(         11), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0100(          4), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0100(          4), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0100(          4), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0100(          4), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0100(          4), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0100(          4), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0100(          4), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0100(          4), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0100(          4), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0101(          5), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00101( 5), result: 00101( 5)
+PASSED
+	CLA_4bit - expected: 00101( 5), result: 00101( 5)
+PASSED
+
+Inputs - a: 0101(          5), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0101(          5), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0101(          5), b: 0001(          1), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0101(          5), b: 0010(          2), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0101(          5), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0101(          5), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0101(          5), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0101(          5), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0101(          5), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0101(          5), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0101(          5), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0101(          5), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0101(          5), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0101(          5), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0101(          5), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0101(          5), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0101(          5), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0101(          5), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0101(          5), b: 1001(          9), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0101(          5), b: 1010(         10), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0101(          5), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0101(          5), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0101(          5), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0101(          5), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0101(          5), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0101(          5), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0101(          5), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0101(          5), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0101(          5), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0101(          5), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0101(          5), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 0110(          6), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00110( 6), result: 00110( 6)
+PASSED
+	CLA_4bit - expected: 00110( 6), result: 00110( 6)
+PASSED
+
+Inputs - a: 0110(          6), b: 0000(          0), cin:           1
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0110(          6), b: 0001(          1), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0110(          6), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0110(          6), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0110(          6), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0110(          6), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0110(          6), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0110(          6), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0110(          6), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0110(          6), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0110(          6), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0110(          6), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0110(          6), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0110(          6), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0110(          6), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0110(          6), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0110(          6), b: 1000(          8), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0110(          6), b: 1001(          9), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0110(          6), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0110(          6), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0110(          6), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0110(          6), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0110(          6), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0110(          6), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0110(          6), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0110(          6), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0110(          6), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0110(          6), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0110(          6), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 0110(          6), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 0110(          6), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 0111(          7), b: 0000(          0), cin:           0
+	inferred_adder - expected: 00111( 7), result: 00111( 7)
+PASSED
+	CLA_4bit - expected: 00111( 7), result: 00111( 7)
+PASSED
+
+Inputs - a: 0111(          7), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0111(          7), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 0111(          7), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0111(          7), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 0111(          7), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0111(          7), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 0111(          7), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0111(          7), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 0111(          7), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0111(          7), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 0111(          7), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0111(          7), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 0111(          7), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0111(          7), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 0111(          7), b: 0111(          7), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0111(          7), b: 1000(          8), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 0111(          7), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0111(          7), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 0111(          7), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0111(          7), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 0111(          7), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0111(          7), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 0111(          7), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0111(          7), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 0111(          7), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0111(          7), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 0111(          7), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 0111(          7), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 0111(          7), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 0111(          7), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 0111(          7), b: 1111(         15), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1000(          8), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01000( 8), result: 01000( 8)
+PASSED
+	CLA_4bit - expected: 01000( 8), result: 01000( 8)
+PASSED
+
+Inputs - a: 1000(          8), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 1000(          8), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 1000(          8), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 1000(          8), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 1000(          8), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1000(          8), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1000(          8), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1000(          8), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1000(          8), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1000(          8), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1000(          8), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1000(          8), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1000(          8), b: 0110(          6), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1000(          8), b: 0111(          7), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1000(          8), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1000(          8), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1000(          8), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1000(          8), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1000(          8), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1000(          8), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1000(          8), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1000(          8), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1000(          8), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1000(          8), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1000(          8), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1000(          8), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1000(          8), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1000(          8), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1000(          8), b: 1110(         14), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1000(          8), b: 1111(         15), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1000(          8), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1001(          9), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01001( 9), result: 01001( 9)
+PASSED
+	CLA_4bit - expected: 01001( 9), result: 01001( 9)
+PASSED
+
+Inputs - a: 1001(          9), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 1001(          9), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 1001(          9), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1001(          9), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1001(          9), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1001(          9), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1001(          9), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1001(          9), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1001(          9), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1001(          9), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1001(          9), b: 0101(          5), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1001(          9), b: 0110(          6), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1001(          9), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1001(          9), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1001(          9), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1001(          9), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1001(          9), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1001(          9), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1001(          9), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1001(          9), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1001(          9), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1001(          9), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1001(          9), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1001(          9), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1001(          9), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1001(          9), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1001(          9), b: 1101(         13), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1001(          9), b: 1110(         14), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1001(          9), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1001(          9), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1001(          9), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1010(         10), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01010(10), result: 01010(10)
+PASSED
+	CLA_4bit - expected: 01010(10), result: 01010(10)
+PASSED
+
+Inputs - a: 1010(         10), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1010(         10), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1010(         10), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1010(         10), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1010(         10), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1010(         10), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1010(         10), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1010(         10), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1010(         10), b: 0100(          4), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1010(         10), b: 0101(          5), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1010(         10), b: 0101(          5), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1010(         10), b: 0110(          6), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1010(         10), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1010(         10), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1010(         10), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1010(         10), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1010(         10), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1010(         10), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1010(         10), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1010(         10), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1010(         10), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1010(         10), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1010(         10), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1010(         10), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1010(         10), b: 1100(         12), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1010(         10), b: 1101(         13), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1010(         10), b: 1101(         13), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1010(         10), b: 1110(         14), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1010(         10), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1010(         10), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1010(         10), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1011(         11), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01011(11), result: 01011(11)
+PASSED
+	CLA_4bit - expected: 01011(11), result: 01011(11)
+PASSED
+
+Inputs - a: 1011(         11), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1011(         11), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1011(         11), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1011(         11), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1011(         11), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1011(         11), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1011(         11), b: 0011(          3), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1011(         11), b: 0100(          4), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1011(         11), b: 0100(          4), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1011(         11), b: 0101(          5), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1011(         11), b: 0101(          5), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1011(         11), b: 0110(          6), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1011(         11), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1011(         11), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1011(         11), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1011(         11), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1011(         11), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1011(         11), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1011(         11), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1011(         11), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1011(         11), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1011(         11), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1011(         11), b: 1011(         11), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1011(         11), b: 1100(         12), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1011(         11), b: 1100(         12), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1011(         11), b: 1101(         13), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1011(         11), b: 1101(         13), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1011(         11), b: 1110(         14), cin:           0
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1011(         11), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1011(         11), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1011(         11), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1100(         12), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01100(12), result: 01100(12)
+PASSED
+	CLA_4bit - expected: 01100(12), result: 01100(12)
+PASSED
+
+Inputs - a: 1100(         12), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1100(         12), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1100(         12), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1100(         12), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1100(         12), b: 0010(          2), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1100(         12), b: 0011(          3), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1100(         12), b: 0011(          3), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1100(         12), b: 0100(          4), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1100(         12), b: 0100(          4), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1100(         12), b: 0101(          5), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1100(         12), b: 0101(          5), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1100(         12), b: 0110(          6), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1100(         12), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1100(         12), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1100(         12), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1100(         12), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1100(         12), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1100(         12), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1100(         12), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1100(         12), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1100(         12), b: 1010(         10), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1100(         12), b: 1011(         11), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1100(         12), b: 1011(         11), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1100(         12), b: 1100(         12), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1100(         12), b: 1100(         12), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1100(         12), b: 1101(         13), cin:           0
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1100(         12), b: 1101(         13), cin:           1
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1100(         12), b: 1110(         14), cin:           0
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1100(         12), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1100(         12), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1100(         12), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1101(         13), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01101(13), result: 01101(13)
+PASSED
+	CLA_4bit - expected: 01101(13), result: 01101(13)
+PASSED
+
+Inputs - a: 1101(         13), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1101(         13), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1101(         13), b: 0001(          1), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1101(         13), b: 0010(          2), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1101(         13), b: 0010(          2), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1101(         13), b: 0011(          3), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1101(         13), b: 0011(          3), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1101(         13), b: 0100(          4), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1101(         13), b: 0100(          4), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1101(         13), b: 0101(          5), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1101(         13), b: 0101(          5), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1101(         13), b: 0110(          6), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1101(         13), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1101(         13), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1101(         13), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1101(         13), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1101(         13), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1101(         13), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1101(         13), b: 1001(          9), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1101(         13), b: 1010(         10), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1101(         13), b: 1010(         10), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1101(         13), b: 1011(         11), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1101(         13), b: 1011(         11), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1101(         13), b: 1100(         12), cin:           0
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1101(         13), b: 1100(         12), cin:           1
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1101(         13), b: 1101(         13), cin:           0
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1101(         13), b: 1101(         13), cin:           1
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1101(         13), b: 1110(         14), cin:           0
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1101(         13), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1101(         13), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1101(         13), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11101(29), result: 11101(29)
+PASSED
+	CLA_4bit - expected: 11101(29), result: 11101(29)
+PASSED
+
+Inputs - a: 1110(         14), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01110(14), result: 01110(14)
+PASSED
+	CLA_4bit - expected: 01110(14), result: 01110(14)
+PASSED
+
+Inputs - a: 1110(         14), b: 0000(          0), cin:           1
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1110(         14), b: 0001(          1), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1110(         14), b: 0001(          1), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1110(         14), b: 0010(          2), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1110(         14), b: 0010(          2), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1110(         14), b: 0011(          3), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1110(         14), b: 0011(          3), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1110(         14), b: 0100(          4), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1110(         14), b: 0100(          4), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1110(         14), b: 0101(          5), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1110(         14), b: 0101(          5), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1110(         14), b: 0110(          6), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1110(         14), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1110(         14), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1110(         14), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1110(         14), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1110(         14), b: 1000(          8), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1110(         14), b: 1001(          9), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1110(         14), b: 1001(          9), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1110(         14), b: 1010(         10), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1110(         14), b: 1010(         10), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1110(         14), b: 1011(         11), cin:           0
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1110(         14), b: 1011(         11), cin:           1
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1110(         14), b: 1100(         12), cin:           0
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1110(         14), b: 1100(         12), cin:           1
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1110(         14), b: 1101(         13), cin:           0
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1110(         14), b: 1101(         13), cin:           1
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1110(         14), b: 1110(         14), cin:           0
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1110(         14), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11101(29), result: 11101(29)
+PASSED
+	CLA_4bit - expected: 11101(29), result: 11101(29)
+PASSED
+
+Inputs - a: 1110(         14), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11101(29), result: 11101(29)
+PASSED
+	CLA_4bit - expected: 11101(29), result: 11101(29)
+PASSED
+
+Inputs - a: 1110(         14), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11110(30), result: 11110(30)
+PASSED
+	CLA_4bit - expected: 11110(30), result: 11110(30)
+PASSED
+
+Inputs - a: 1111(         15), b: 0000(          0), cin:           0
+	inferred_adder - expected: 01111(15), result: 01111(15)
+PASSED
+	CLA_4bit - expected: 01111(15), result: 01111(15)
+PASSED
+
+Inputs - a: 1111(         15), b: 0000(          0), cin:           1
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1111(         15), b: 0001(          1), cin:           0
+	inferred_adder - expected: 10000(16), result: 10000(16)
+PASSED
+	CLA_4bit - expected: 10000(16), result: 10000(16)
+PASSED
+
+Inputs - a: 1111(         15), b: 0001(          1), cin:           1
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1111(         15), b: 0010(          2), cin:           0
+	inferred_adder - expected: 10001(17), result: 10001(17)
+PASSED
+	CLA_4bit - expected: 10001(17), result: 10001(17)
+PASSED
+
+Inputs - a: 1111(         15), b: 0010(          2), cin:           1
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1111(         15), b: 0011(          3), cin:           0
+	inferred_adder - expected: 10010(18), result: 10010(18)
+PASSED
+	CLA_4bit - expected: 10010(18), result: 10010(18)
+PASSED
+
+Inputs - a: 1111(         15), b: 0011(          3), cin:           1
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1111(         15), b: 0100(          4), cin:           0
+	inferred_adder - expected: 10011(19), result: 10011(19)
+PASSED
+	CLA_4bit - expected: 10011(19), result: 10011(19)
+PASSED
+
+Inputs - a: 1111(         15), b: 0100(          4), cin:           1
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1111(         15), b: 0101(          5), cin:           0
+	inferred_adder - expected: 10100(20), result: 10100(20)
+PASSED
+	CLA_4bit - expected: 10100(20), result: 10100(20)
+PASSED
+
+Inputs - a: 1111(         15), b: 0101(          5), cin:           1
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1111(         15), b: 0110(          6), cin:           0
+	inferred_adder - expected: 10101(21), result: 10101(21)
+PASSED
+	CLA_4bit - expected: 10101(21), result: 10101(21)
+PASSED
+
+Inputs - a: 1111(         15), b: 0110(          6), cin:           1
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1111(         15), b: 0111(          7), cin:           0
+	inferred_adder - expected: 10110(22), result: 10110(22)
+PASSED
+	CLA_4bit - expected: 10110(22), result: 10110(22)
+PASSED
+
+Inputs - a: 1111(         15), b: 0111(          7), cin:           1
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1111(         15), b: 1000(          8), cin:           0
+	inferred_adder - expected: 10111(23), result: 10111(23)
+PASSED
+	CLA_4bit - expected: 10111(23), result: 10111(23)
+PASSED
+
+Inputs - a: 1111(         15), b: 1000(          8), cin:           1
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1111(         15), b: 1001(          9), cin:           0
+	inferred_adder - expected: 11000(24), result: 11000(24)
+PASSED
+	CLA_4bit - expected: 11000(24), result: 11000(24)
+PASSED
+
+Inputs - a: 1111(         15), b: 1001(          9), cin:           1
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1111(         15), b: 1010(         10), cin:           0
+	inferred_adder - expected: 11001(25), result: 11001(25)
+PASSED
+	CLA_4bit - expected: 11001(25), result: 11001(25)
+PASSED
+
+Inputs - a: 1111(         15), b: 1010(         10), cin:           1
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1111(         15), b: 1011(         11), cin:           0
+	inferred_adder - expected: 11010(26), result: 11010(26)
+PASSED
+	CLA_4bit - expected: 11010(26), result: 11010(26)
+PASSED
+
+Inputs - a: 1111(         15), b: 1011(         11), cin:           1
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1111(         15), b: 1100(         12), cin:           0
+	inferred_adder - expected: 11011(27), result: 11011(27)
+PASSED
+	CLA_4bit - expected: 11011(27), result: 11011(27)
+PASSED
+
+Inputs - a: 1111(         15), b: 1100(         12), cin:           1
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1111(         15), b: 1101(         13), cin:           0
+	inferred_adder - expected: 11100(28), result: 11100(28)
+PASSED
+	CLA_4bit - expected: 11100(28), result: 11100(28)
+PASSED
+
+Inputs - a: 1111(         15), b: 1101(         13), cin:           1
+	inferred_adder - expected: 11101(29), result: 11101(29)
+PASSED
+	CLA_4bit - expected: 11101(29), result: 11101(29)
+PASSED
+
+Inputs - a: 1111(         15), b: 1110(         14), cin:           0
+	inferred_adder - expected: 11101(29), result: 11101(29)
+PASSED
+	CLA_4bit - expected: 11101(29), result: 11101(29)
+PASSED
+
+Inputs - a: 1111(         15), b: 1110(         14), cin:           1
+	inferred_adder - expected: 11110(30), result: 11110(30)
+PASSED
+	CLA_4bit - expected: 11110(30), result: 11110(30)
+PASSED
+
+Inputs - a: 1111(         15), b: 1111(         15), cin:           0
+	inferred_adder - expected: 11110(30), result: 11110(30)
+PASSED
+	CLA_4bit - expected: 11110(30), result: 11110(30)
+PASSED
+
+Inputs - a: 1111(         15), b: 1111(         15), cin:           1
+	inferred_adder - expected: 11111(31), result: 11111(31)
+PASSED
+	CLA_4bit - expected: 11111(31), result: 11111(31)
+PASSED
+
+Simulation Finished
+DUT0(inferred_adder) - total failures:           0
+DUT1(CLA_4bit)       - total failures:           0
+$finish called at time : 5120 ns : File "C:/brevado/Lab4_finaldraft/Lab4_finaldraft.srcs/sim_1/new/adder_tb.v" Line 78
